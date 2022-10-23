@@ -1,0 +1,13 @@
+[Unit]
+
+Description=freenom_updater
+
+After=syslog.target
+
+[Serive]
+
+ExecStart=/opt/freenom_updater.sh
+
+[Install]
+
+WantedBy=multi-user.target
