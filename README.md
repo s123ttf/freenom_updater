@@ -5,5 +5,5 @@ python3,pip3
 暂仅支持linux  
 使用方法:  
 ```shell
-sudo curl https://raw.githubusercontent.com/s123ttf/freenom_updater/main/install.sh |bash
+sudo curl https://raw.githubusercontent.com/s123ttf/freenom_updater/main/install.sh | bash
 ````
